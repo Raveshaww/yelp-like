@@ -1,0 +1,20 @@
+.thumbnail {
+    padding: 0px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.delete-form {
+    display:inline;
+}
+
+h1.form-h1 {
+    text-align: center;
+}
+
+div.form-div {
+    width: 30%;
+    margin: 25px auto;
+}
